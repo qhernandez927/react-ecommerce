@@ -44,5 +44,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/qhernandez927/react-ecommerce.git"
-}
+},
+"author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qhernandez927/react-ecommerce.git"
+  },
+  "homepage": "https://github.com/qhernandez927/react-ecommerce.git"
 }
